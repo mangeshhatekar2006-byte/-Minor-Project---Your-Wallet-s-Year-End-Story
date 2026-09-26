@@ -19,11 +19,10 @@ NumPy
 Jupyter Notebook / Google Colab
 📁 Project Structure
 ```text
-SpendDNA/
-├── SpendDNA_Minor_Project.ipynb
+
+├── Minor_Project.ipynb
 ├── rahul_transactions.csv
 ├── README.md
-└── requirements.txt
 ```
 ▶️ Run the Project
 Google Colab
@@ -35,7 +34,7 @@ Local Jupyter
 pip install -r requirements.txt
 jupyter notebook
 ```
-Open `SpendDNA_Minor_Project.ipynb` and run all cells.
+Open `Minor_Project.ipynb` and run all cells.
 📊 Dataset
 The supplied dataset contains 1,328 rows including duplicate records and represents a fictional Bengaluru-based software engineer named Rahul Sharma over January–June 2024.
 The data intentionally contains:
